@@ -3907,7 +3907,10 @@ input, select, textarea {
 			}
 
 		}
-  
+
+/**/
+
+/* intro animation */
     .typewriter{
 		 width:61%;
 	}
@@ -3931,5 +3934,14 @@ input, select, textarea {
 			from, to { border-color: transparent }
 			50% { border-color: orange }
 		}
-		
+
+/*welcome*/
+     .profile{
+		  width:200px;
+		  height: auto;
+		  border-radius: 50%;
+	 }
+	 .greeting-text{
+		  font-size: 20px;
+	 }
 		
