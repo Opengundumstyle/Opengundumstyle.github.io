@@ -3943,5 +3943,15 @@ input, select, textarea {
 	 }
 	 .greeting-text{
 		  font-size: 20px;
+		  animation: fadeIn 3s;
 	 }
+
+	 .fade-in { 
+		 animation: fadeIn 8s; 
+	 }
+
+	 @keyframes fadeIn {
+		0% { opacity: 0; }
+		100% { opacity: 1; }
+	  }
 		
