@@ -3956,3 +3956,13 @@ input, select, textarea {
 		100% { opacity: 1; }
 	  }
 /* one */
+  .loki{
+	  /* float: right; */
+	  margin-left: 30%;
+	  width: 450px;
+	  height: auto;
+  }
+
+
+
+ 
