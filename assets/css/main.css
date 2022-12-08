@@ -3958,8 +3958,8 @@ input, select, textarea {
 /* one */
   .loki{
 	  /* float: right; */
-	  margin-left: 30%;
-	  width: 450px;
+	  /* margin-left: 30%; */
+	  width: 300px;
 	  height: auto;
   }
 
