@@ -3963,6 +3963,11 @@ input, select, textarea {
 	  height: auto;
   }
 
+.loki-tube{
+	  width: 400px;
+	  height: 200px;;
+}
+
 
 
  
