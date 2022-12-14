@@ -3972,5 +3972,15 @@ input, select, textarea {
 	  padding:0;
 }
 
+/*passions*/
+.showcase-music{
+	display: flex;
+	flex-direction: row;
+	gap: 2rem;
+	justify-content: center;
+	align-items: center;
+}
 
- 
+.demo-description{
+	 width:350px;
+}
