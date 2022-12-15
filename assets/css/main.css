@@ -4013,3 +4013,11 @@ input, select, textarea {
 	position: absolute;
 	bottom: 5%;
 }
+
+/*project section*/
+.projecsection-footer{
+	 position: absolute;
+	 bottom: 0;
+	 width: 100%;
+	 
+}
