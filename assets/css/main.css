@@ -4021,3 +4021,19 @@ input, select, textarea {
 	 width: 100%;
 	 
 }
+
+ul.contact {
+	display: table;
+	width: 100%;
+	text-align: center;
+  }
+ul.contact li{
+	/* display: inline-block; */
+	display: table-cell;
+}
+
+.social-li{
+	 display: flex;
+	 flex-direction: column;
+	 align-items: center;
+}
