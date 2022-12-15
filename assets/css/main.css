@@ -3984,3 +3984,28 @@ input, select, textarea {
 .demo-description{
 	 width:350px;
 }
+
+/* project demo button*/
+.btn {
+    letter-spacing: .15em;
+    text-transform: uppercase;
+    padding: 0.65rem 1.5rem;
+}
+
+.btn-group-sm>.btn, .btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: .875rem;
+    border-radius: 0.2rem;
+	
+}
+
+.btn-light {
+    color:rgb(205, 90, 109);
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.project-btn-div{
+	position: absolute;
+	bottom: 5%;
+}
