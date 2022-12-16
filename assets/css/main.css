@@ -3914,6 +3914,7 @@ input, select, textarea {
 /* intro animation */
     .typewriter{
 		 width:61%;
+		
 	}
 	.typewriter p{
 		  overflow: hidden; /* Ensures the content is not revealed until the animation */
